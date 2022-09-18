@@ -1,0 +1,16 @@
+C:\Users\sandu\source\repos\Second\Second\bin\Debug\net5.0\Second.exe
+C:\Users\sandu\source\repos\Second\Second\bin\Debug\net5.0\Second.deps.json
+C:\Users\sandu\source\repos\Second\Second\bin\Debug\net5.0\Second.runtimeconfig.json
+C:\Users\sandu\source\repos\Second\Second\bin\Debug\net5.0\Second.runtimeconfig.dev.json
+C:\Users\sandu\source\repos\Second\Second\bin\Debug\net5.0\Second.dll
+C:\Users\sandu\source\repos\Second\Second\bin\Debug\net5.0\Second.pdb
+C:\Users\sandu\source\repos\Second\Second\obj\Debug\net5.0\Second.csproj.AssemblyReference.cache
+C:\Users\sandu\source\repos\Second\Second\obj\Debug\net5.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandu\source\repos\Second\Second\obj\Debug\net5.0\Second.AssemblyInfoInputs.cache
+C:\Users\sandu\source\repos\Second\Second\obj\Debug\net5.0\Second.AssemblyInfo.cs
+C:\Users\sandu\source\repos\Second\Second\obj\Debug\net5.0\Second.csproj.CoreCompileInputs.cache
+C:\Users\sandu\source\repos\Second\Second\obj\Debug\net5.0\Second.dll
+C:\Users\sandu\source\repos\Second\Second\obj\Debug\net5.0\refint\Second.dll
+C:\Users\sandu\source\repos\Second\Second\obj\Debug\net5.0\Second.pdb
+C:\Users\sandu\source\repos\Second\Second\obj\Debug\net5.0\Second.genruntimeconfig.cache
+C:\Users\sandu\source\repos\Second\Second\obj\Debug\net5.0\ref\Second.dll
